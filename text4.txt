@@ -1,0 +1,11 @@
+[text4.txt]
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
