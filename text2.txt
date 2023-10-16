@@ -1,0 +1,6 @@
+[text2.txt]
+2 two
+4 four
+6 six
+8 eight
+0 zero
